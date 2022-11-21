@@ -240,3 +240,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 
 /curso-python-pip-master
+venv/
+imgs/
+*.png
+*.jpg
